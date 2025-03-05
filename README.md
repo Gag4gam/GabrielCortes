@@ -1,4 +1,4 @@
-# GabrielCortes
+# Gag4gam
 
 # #30NitesOfCode: Check out my progress
   [Check out my progress!](https://www.codedex.io/@BielGam/30-nites-of-code)  
